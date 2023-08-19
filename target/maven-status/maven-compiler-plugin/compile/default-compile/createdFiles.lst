@@ -1,0 +1,8 @@
+com\laptrinhjavaweb\dto\NewDTO.class
+com\laptrinhjavaweb\entity\RoleEntity.class
+com\laptrinhjavaweb\entity\CategoryEntity.class
+com\laptrinhjavaweb\entity\BaseEntity.class
+com\laptrinhjavaweb\entity\UserEntity.class
+com\laptrinhjavaweb\entity\NewsEntity.class
+com\laptrinhjavaweb\Application.class
+com\laptrinhjavaweb\api\NewAPI.class
